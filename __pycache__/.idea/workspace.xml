@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f121af88-1896-4720-8db2-51550f8299b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.github/workflows/azure-static-web-apps-gentle-bush-090bea70f.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docker Desktop.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/androidTest/java/com/example/ambulance/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/java/com/example/ambulance/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/java/com/example/ambulance/UserPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/java/com/example/ambulance/userLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/layout/activity_user_location.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/layout/activity_user_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/values-land/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/app/src/test/java/com/example/ambulance/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hackathon/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Important docs/sign.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud/day 1 cloud/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud/day 1 cloud/.idea/cloud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud/day 1 cloud/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud/day 1 cloud/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud/day 1 cloud/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud/day 1 cloud/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloud/day 1 cloud/flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../del/sql2-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../del/sql2-main/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../del/sql2-main/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../del/sql2-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../del/sql2-main/.idea/sql2-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../del/sql2-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docker/temp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../git/cloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github login creds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sample.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2KlBaKYDiX04rQE6kq7Zul8iEDi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f121af88-1896-4720-8db2-51550f8299b9" name="Default Changelist" comment="" />
+      <created>1674539351170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674539351170</updated>
+    </task>
+    <servers />
+  </component>
+</project>
